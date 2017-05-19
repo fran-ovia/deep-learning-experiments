@@ -32,7 +32,7 @@ Must be said that applying deep-learning on declension intensive-languages could
 
 Thus, we can conclude that, for declension-intensive languages, creating good embeddings from text corpora will be more difficult, but still very important. So how to do it? The next section will describe some ideas to do so, and the purpose of this project is to experiment on them
 
-## Efficient way to create word embeddings for declension intensive languages
+## Looking for an efficient way to create word embeddings for declension intensive languages
 
 As discussed previously, we have huge vocabulary size (many declensed versions of each word) and few words per sentence. We could think in several solutions to target this:
 
