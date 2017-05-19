@@ -1,0 +1,33 @@
+ni ni #absolutive
+ni nik #ergative
+ni niri #dative
+ni nire #genitive
+ni nirekin #comitative
+
+zu zu #absolutive
+zu zuk #ergative
+zu zuri #dative
+zu zure #genitive
+zu zurekin #comitative
+
+hura hura #absolutive
+hura hark #ergative
+hura hari #dative
+hura bere #genitive
+hura harekin #comitative
+
+gu gu #absolutive
+gu guk #ergative
+gu guri #dative
+gu gure #genitive
+gu gurekin #comitative
+
+zuek zuek #absolutive #ergative
+zuek zuei #dative
+zuek zuen #genitive
+zuek zuekin #comitative
+
+haiek haiek #absolutive #ergative
+haiek haiei #dative
+haiek haien #genitive
+haiek haiekin #comitative
