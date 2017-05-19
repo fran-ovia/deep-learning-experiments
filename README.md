@@ -1,6 +1,6 @@
 # Deep Learning Experiments
 
-* It is a repository of experiments made to play with Deep Learning technology, as well as to test some ideas; written by [Fran Oviamionayi](@fran-ovia)!
+* Repository of experiments made to play with Deep Learning technology and test some ideas; written by [Fran Oviamionayi](@fran-ovia)
 * Requirementes depend on the experiment itself. Currently python, numpy, pandas, jupyter, gensim and tensorflow
 
 # How to use?
